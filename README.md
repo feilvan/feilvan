@@ -35,23 +35,23 @@ or you can call me Fe if you prefer that. I'm a computer science undergraduate.<
 
 <p align="center">
 <a href="https://www.behance.net/feilvan" target="_blank">
-<img src="img/behance.png" align="left">
+<img src="img/behance.png">
 </a>
 <a href="https://www.instagram.com/feilvan/" target="_blank">
-<img src="img/instagram.png" align="left">
+<img src="img/instagram.png">
 </a>
 <a href="https://www.youtube.com/feilvan/" target="_blank">
-<img src="img/youtube.png" align="left">
+<img src="img/youtube.png">
 </a>
 <a href="https://www.twitter.com/feilvan/" target="_blank">
-<img src="img/twitter.png" align="left">
+<img src="img/twitter.png">
 </a>
 <a href="mailto:feilvanfeilvan@gmail.com" target="_blank">
-<img src="img/email.png" align="left">
+<img src="img/email.png">
 </a>
 <a href="https://www.linkedin.com/in/fuad-elhasan-irfani/" target="_blank">
-<img src="img/linkedin.png" align="left">
+<img src="img/linkedin.png">
 </a>
 </p>
 
-<p align="right"><i>I'll make sure everything looks eye pleasing... at least for me.</i></p>
+<p align="center"><i>I'll make sure everything looks eye pleasing... at least for me.</i></p>
