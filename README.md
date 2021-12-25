@@ -1,26 +1,11 @@
-<!--
-**feilvan/feilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![img](/img/hello.png)
 
 ### Fuad here,
 
-or you can call me Fe if you prefer that. I'm a computer science undergraduate.</br>
-✨ I'm interested in **Front-End**. Currently learning **React** and **Three.js**.</br>
-💻 Currently working on my website and some kind of virtual expo to showcase my work.</br>
-🎨 Besides, I do Digital Imaging, Graphic Design, UI/UX, and currently learning 3D Environmental Concept Art.
+or you can call me Fe if you prefer. I'm a computer science undergraduate.</br>
+- ✨ I'm interested in **Front-End**. Currently learning **React** and **Three.js**.</br>
+- 💻 Currently working on my website and some kind of virtual expo to showcase my work.</br>
+- 🎨 Besides, I do Digital Imaging, Graphic Design, UI/UX, and currently learning 3D Environmental Concept Art.
 
 ## <div align="center">Stats</div>
 
@@ -54,4 +39,7 @@ or you can call me Fe if you prefer that. I'm a computer science undergraduate.<
 </a>
 </p>
 
-<p align="center"><i>I'll make sure everything looks eye pleasing... at least for me.</i></p>
+<p align="center">
+  <i>I'll make sure everything is eye pleasing... at least for me.</i><br/><br/>
+  < &#8593;&#8595;&#8634; />
+</p>
