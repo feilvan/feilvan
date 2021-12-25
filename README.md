@@ -31,27 +31,27 @@ or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
 
 <p align="center"><i>Not really impresive, I know. But I'm getting there!</i></p>
 
-## <div align="center">Get in Touch</div>
+## <div align="center">Get in touch</div>
 
 <p align="center">
-<a href="https://www.behance.net/feilvan" style="margin: 0 5px">
-<img src="img/behance.png">
+<a href="https://www.behance.net/feilvan" target="_blank">
+<img src="img/behance.png" align="left">
 </a>
-<a href="https://www.instagram.com/feilvan/"style="margin: 0 5px">
-<img src="img/instagram.png">
+<a href="https://www.instagram.com/feilvan/" target="_blank">
+<img src="img/instagram.png" align="left">
 </a>
-<a href="https://www.youtube.com/feilvan/"style="margin: 0 5px">
-<img src="img/youtube.png">
+<a href="https://www.youtube.com/feilvan/" target="_blank">
+<img src="img/youtube.png" align="left">
 </a>
-<a href="https://www.twitter.com/feilvan/"style="margin: 0 5px">
-<img src="img/twitter.png">
+<a href="https://www.twitter.com/feilvan/" target="_blank">
+<img src="img/twitter.png" align="left">
 </a>
-<a href="mailto:feilvanfeilvan@gmail.com"style="margin: 0 5px">
-<img src="img/email.png">
+<a href="mailto:feilvanfeilvan@gmail.com" target="_blank">
+<img src="img/email.png" align="left">
 </a>
-<a href="https://www.linkedin.com/in/fuad-elhasan-irfani/"style="margin: 0 5px">
-<img src="img/linkedin.png">
+<a href="https://www.linkedin.com/in/fuad-elhasan-irfani/" target="_blank">
+<img src="img/linkedin.png" align="left">
 </a>
 </p>
 
-<p align="center"><i>I'll make sure everything looks eye pleasing... at least for me</i></p>
+<p align="right"><i>I'll make sure everything looks eye pleasing... at least for me</i></p>
