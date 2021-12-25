@@ -22,10 +22,10 @@ or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
 💻 Currently working on my website and some kind of virtual expo to showcase my work.</br>
 🎨 Besides, I do Digital Imaging, Graphic Design, UI/UX, and currently learning 3D Environmental Concept Art.
 
-<div align="center" style="margin: 20px 0">
+<p align="center">
 <img align="center" style="margin: 0 10px" src="https://github-readme-stats.vercel.app/api?username=feilvan&count_private=true&show_icons=true&border_radius=15&hide_title=true&hide_border=true&icon_color=4B5DFF&text_color=666666" />
-<img align="center" style="margin: 0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feilvan&layout=compact&border_radius=15&hide_border=true&icon_color=4B5DFF&text_color=666666&langs_count=6&title_color=4B5DFF&card_width=330" />
-</div>
+<img align="center" style="margin: 0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feilvan&layout=compact&border_radius=15&hide_border=true&icon_color=4B5DFF&text_color=666666&langs_count=6&title_color=4B5DFF&card_width=300" />
+</p>
 
 <p align="center"><i>Not really impresive, I know. But I'm getting there!</i></p>
 
