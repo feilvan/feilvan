@@ -29,7 +29,7 @@ or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
 
 <p align="center"><i>Not really impresive, I know. But I'm getting there!</i></p>
 
-## <p align="center">\_\_\_\_</p>
+---
 
 <p align="center">
 <a href="https://www.behance.net/feilvan" style="margin: 0 5px">
