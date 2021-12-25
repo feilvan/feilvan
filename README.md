@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **feilvan/feilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![img](/img/hello.png)
+
+### Fuad here,
+
+You can call me Fuad, or Fe if you prefer. I'm an undergraduate student. On a more unrelated stuff, I do Digital Imaging and currently learning 3D Environment.
