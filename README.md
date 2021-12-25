@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](/img/hello.png)
+![img](/img/hello2.png)
 
 ### Fuad here,
 
