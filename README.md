@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Fuad here,
 
-or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
+or you can call me Fe if you prefer that. I'm a computer science undergraduate.</br>
 ✨ I'm interested in **Front-End**. Currently learning **React** and **Three.js**.</br>
 💻 Currently working on my website and some kind of virtual expo to showcase my work.</br>
 🎨 Besides, I do Digital Imaging, Graphic Design, UI/UX, and currently learning 3D Environmental Concept Art.
@@ -29,7 +29,7 @@ or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
 <img align="center" style="margin: 0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feilvan&layout=compact&border_radius=15&hide_border=true&icon_color=4B5DFF&text_color=666666&langs_count=6&title_color=4B5DFF&card_width=250" />
 </p>
 
-<p align="center"><i>Not really impresive, I know. But I'm getting there!</i></p>
+<p align="center"><i>Not really impressive, I know. But I'm getting there!</i></p>
 
 ## <div align="center">Get in touch</div>
 
@@ -54,4 +54,4 @@ or you can call me Fe if you prefer that. I'm an undergraduate student.</br>
 </a>
 </p>
 
-<p align="right"><i>I'll make sure everything looks eye pleasing... at least for me</i></p>
+<p align="right"><i>I'll make sure everything looks eye pleasing... at least for me.</i></p>
