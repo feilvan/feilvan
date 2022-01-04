@@ -3,8 +3,8 @@
 ### Fuad here,
 
 or you can call me Fe if you prefer. I'm a computer science undergraduate.</br>
-- ✨ I'm interested in **Front-End**. Currently learning **Next.js** and **Three.js**.</br>
-- 💻 Currently working on my website and some kind of virtual expo to showcase my work.</br>
+- ✨ I'm interested in **Front-End**. Currently learning **React**.</br>
+- 💻 Currently working on my website.</br>
 - 🎨 Besides, I do Digital Imaging, Graphic Design, UI/UX, and currently learning 3D Environmental Concept Art.
 
 ## <div align="center">Stats</div>
