@@ -30,7 +30,7 @@ or you can call me Fe if you prefer. I'm a computer science undergraduate.</br>
 <a href="https://www.twitter.com/feilvan/" target="_blank">
 <img src="img/twitter.png">
 </a>
-<a href="mailto:feilvanfeilvan@gmail.com" target="_blank">
+<a href="mailto:hello@feilvan.art" target="_blank">
 <img src="img/email.png">
 </a>
 <a href="https://www.linkedin.com/in/fuad-elhasan-irfani/" target="_blank">
